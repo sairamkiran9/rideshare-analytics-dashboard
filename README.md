@@ -2,7 +2,8 @@
 
 A Power BI dashboard for comprehensive analysis of ridesharing trip data. Gain actionable insights across bookings, revenue, demand trends, vehicle and payment types, and geospatial trip patterns—helping teams make data-driven decisions to improve efficiency and operations.
 
-![Dashboard Example](https://private-user-images.githubusercontent.com/84216932/513301418-8ee28bac-606e-48fe-ae51-145c63bfe448.png)
+<img width="1288" height="723" alt="image" src="https://github.com/user-attachments/assets/50db1768-420f-4ad1-9dc2-7b72b73e7502" />
+
 
 ---
 
@@ -31,6 +32,9 @@ This project offers an interactive analytics dashboard designed for rideshare tr
 - Detect peak demand times for staffing and pricing strategy
 - Optimize fleet mix and geographic coverage
 - Drive revenue growth and operational improvement with informed decisions
+
+  <img width="1291" height="728" alt="image" src="https://github.com/user-attachments/assets/d486c7b5-eac5-429a-9782-6e07e041a517" />
+
 
 ---
 
