@@ -34,11 +34,3 @@ This project offers an interactive analytics dashboard designed for rideshare tr
 - Drive revenue growth and operational improvement with informed decisions
 
   <img width="1291" height="728" alt="image" src="https://github.com/user-attachments/assets/d486c7b5-eac5-429a-9782-6e07e041a517" />
-
-
----
-
-## 🚀 Getting Started
-
-1. Clone this repository:
-
