@@ -1,15 +1,15 @@
 # 🚖 rideshare-analytics-dashboard
 
-A Power BI dashboard for comprehensive analysis of ridesharing trip data. Gain actionable insights across bookings, revenue, demand trends, vehicle and payment types, and geospatial trip patterns—helping teams make data-driven decisions to improve efficiency and operations.
+A Power BI dashboard for comprehensive analysis of ridesharing trip data. Gain actionable insights across bookings, revenue, demand trends, vehicle and payment types, and geospatial trip patterns helping teams make data-driven decisions to improve efficiency and operations.
 
-<img width="1288" height="723" alt="image" src="https://github.com/user-attachments/assets/50db1768-420f-4ad1-9dc2-7b72b73e7502" />
+<img width="1188" height="673" alt="image" src="https://github.com/user-attachments/assets/50db1768-420f-4ad1-9dc2-7b72b73e7502" />
 
 
 ---
 
 ## 🌟 Overview
 
-This project offers an interactive analytics dashboard designed for rideshare trip data (e.g., Uber, Lyft). It provides visualizations of essential performance metrics, operations trends, and customer usage—spanning time, geographies, and ride categories.
+This project offers an interactive analytics dashboard designed for rideshare trip data (e.g., Uber, Lyft). It provides visualizations of essential performance metrics, operations trends, and customer usage spanning time, geographies, and ride categories.
 
 ---
 
@@ -33,4 +33,4 @@ This project offers an interactive analytics dashboard designed for rideshare tr
 - Optimize fleet mix and geographic coverage
 - Drive revenue growth and operational improvement with informed decisions
 
-  <img width="1291" height="728" alt="image" src="https://github.com/user-attachments/assets/d486c7b5-eac5-429a-9782-6e07e041a517" />
+  <img width="1191" height="678" alt="image" src="https://github.com/user-attachments/assets/d486c7b5-eac5-429a-9782-6e07e041a517" />
